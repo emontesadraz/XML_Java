@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<autores>
+    <autor codigo="a1">
+        <nome>Alexandre Dumas</nome>
+        <titulo>El Conde de Montecristo</titulo>
+        <titulo>Los Miserables</titulo>
+    </autor>
+    <autor codigo="a2">
+        <nome>Fiodor Dostoyevski</nome>
+        <libro>El Idiota</libro>
+        <libro>Noches Blancas</libro>
+    </autor>
+</autores>
